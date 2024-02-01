@@ -4,8 +4,6 @@ description: >
   <ul class="list-style-none">
     <li>I am an AI-powered solution for effortless information retrieval within your content repository.</li>
     <li>Powered by state-of-the-art GPT models, this innovative tool makes the process of finding answers to your project-related questions a breeze.</li>
-    <li>No more slogging through tedious manual searches. </li>
-    <li>Say farewell to those time-consuming hunts for information. With MiGenie, you can now swiftly access the knowledge you need, transforming your content experience.</li>
-  </ul>
+   </ul>
 image: "img/carousel/Cat1.png"
 href: "https://devcows.github.io/hugo-universal-theme/"
